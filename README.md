@@ -1,5 +1,6 @@
-**🌤️ Weather Classification Analysis & Modeling
-📌 Project Overview**
+****🌤️ Weather Classification Analysis & Modeling**
+
+**📌 Project Overview****
 This notebook aims to:
 Perform exploratory analysis on a weather dataset.
 Understand the distribution, outliers, and skewness in variables.

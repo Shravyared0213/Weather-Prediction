@@ -19,9 +19,9 @@ precipitation, temp_max, temp_min, wind (continuous)
 weather (categorical target)
 
 **🔧 Libraries Used**
+
 python
-Copy
-Edit
+
 pandas, numpy, seaborn, matplotlib, scipy, sklearn
 
 **🔍 Data Analysis Highlights**
@@ -95,8 +95,10 @@ Support Vector Classifier	50.72%
 Gradient Boosting Classifier	71.74%
 
 Random Forest Classifier	76.81%
-**
+
+
 **📌 Conclusion****
+
 Random Forest achieved the highest accuracy of 76.81%, followed by Gradient Boosting.
 
 Random Forest outperformed other models likely due to its robustness to skewed distributions and outliers, and its ability to generalize well on unscaled, mixed-type data.
